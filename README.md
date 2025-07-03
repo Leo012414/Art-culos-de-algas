@@ -1,2 +1,2 @@
-# Art-culos-de-algas
+# Articulos-de-algas
 Artículos de aplicaciones de las microalgas
